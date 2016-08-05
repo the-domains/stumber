@@ -1,0 +1,14 @@
+layout_spectrum: 0.5803123235236853
+typography_spectrum: 0.9983106255531311
+color:
+  brandStrength: 0.6217672417405993
+  lightness: 0.7000611664261669
+  saturation: 0.2165057163219899
+  rhythmicContrast: 0.5379449580796063
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: Stumber
