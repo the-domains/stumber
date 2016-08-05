@@ -6,9 +6,10 @@ color:
   saturation: 0.2165057163219899
   rhythmicContrast: 0.5379449580796063
   brandColors:
-    - '#FF6138'
-    - '#FFFF9D'
-    - '#BEEB9F'
-    - '#79BD8F'
-    - '#00A388'
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
 name: Stumber
+title: Stumber
